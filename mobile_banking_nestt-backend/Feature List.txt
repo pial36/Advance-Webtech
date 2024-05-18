@@ -1,0 +1,20 @@
+Customer:
+
+⦿ Sign up ✔
+⦿ Sign in ✔
+⦿ Sign out ✔
+⦿ Create Customer Details ✔
+⦿ View Profile Details ✔
+⦿ Upload/Change Profile Picture ✔
+⦿ View Profile Picture ✔
+⦿ Cash out ✔
+⦿ Cash in ⚠ 
+⦿ Bank to bKash ✔
+⦿ bKash to Bank ✔
+⦿ Change password ✔
+⦿ Change profile details ✔
+⦿ Bill payment ✔
+⦿ View payment list ✔
+⦿ Loan from bKash
+⦿ Send money ✔
+⦿ bKash to card ✔
