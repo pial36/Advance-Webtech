@@ -1,0 +1,28 @@
+const API_ENDPOINTS = {
+    merchantAuthIndex: "/api/merchant/auth/index",
+    merchantAuthSignup: "/api/merchant/auth/signup",
+    merchantAuthLogin: "/api/merchant/auth/login",
+    merchantAuthLogout: "/api/merchant/auth/logout",
+    merchantAuthChangePassword: "/api/merchant/auth/change_password",
+    merchantIndex: "/api/merchant/index",
+    merchantService: "/api/merchant/merchant_service",
+    merchantSignupDetails: "/api/merchant/signup/merchant_details",
+    merchantProfile: "/api/merchant/profile",
+    merchantProfileUpdate: "/api/merchant/profile/update",
+    merchantProfileUpload: "/api/merchant/profile/upload",
+    merchantViewProfileImage: "/api/merchant/profile/view_profile_image",
+    merchantSendMoney: "/api/merchant/send_money",
+    merchantCashOut: "/api/merchant/cash_out",
+    merchantBillPayment: "/api/merchant/bill_payment",
+    merchantCashIn: "/api/merchant/cash_in",
+    merchantWalletToBank: "/api/merchant/add_money/wallet_to_bank",
+    merchantWalletToCard: "/api/merchant/add_money/wallet_to_card",
+    merchantBankToWallet: "/api/merchant/add_money/bank_to_wallet",
+    merchantPaymentList: "/api/merchant/payment/list",
+    merchantPaymentCashInList: "/api/merchant/payment/list/cash_in",
+    merchantForgetPassword: "/api/merchant/forget_password",
+    merchantOTP: "/api/merchant/otp",
+    navbarInfo: "/api/merchant/navbar_info",
+};
+
+export default API_ENDPOINTS;
